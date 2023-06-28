@@ -1,7 +1,7 @@
 <!-- hide -->
 # Welcome to Numpy exercise tutorial
 
-Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/breatheco-de/numpy-tutorial-exercises/graphs/contributors">otros contibuyentes</a> en <a href="http://4geeksacademy.com/">4Geeks Academy</a><a href="https://www.4geeksacademy.com"><img height="280" align="right" src="https://github.com/breatheco-de/numpy-tutorial-exercises/blob/master/.learn/assets/numpy-badge.png?raw=true"></a>
+Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4geeksacademy/numpy-tutorial-exercises/graphs/contributors">otros contibuyentes</a> en <a href="http://4geeksacademy.com/">4Geeks Academy</a><a href="https://www.4geeksacademy.com"><img height="280" align="right" src="https://github.com/4geeksacademy/numpy-tutorial-exercises/blob/master/.learn/assets/numpy-badge.png?raw=true"></a>
 <!-- endhide -->
 
 Numpy (y Pandas) son las librerías #1 para Machine Learning, no hay manera que puedas realizar cualquier cosa sin ellas.
@@ -18,9 +18,11 @@ Nota: Todo el tutorial es completamente 👆 interactivo, ✅ con correción aut
 Estos ejercicios fueron construidos en colaboración. !te necesitamos! Si consigues algun error o falta ortográfica por favor ayúdanos y repórtalos.
 
 <!-- hide -->
-## Instalación de un solo clic:
+## Instalación en un clic (recomendado)
 
-[![Abre en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/breatheco-de/numpy-tutorial-exercises)
+Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/numpy-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/numpy-tutorial-exercises.git).
+
+> Una vez ya tengas abierto VSCode, los ejercicios de LearnPack deberían empezar automáticamente; si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
 
 ## Instalación local
