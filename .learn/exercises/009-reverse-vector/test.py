@@ -1,6 +1,12 @@
 import pytest
 import os,re
 
+@pytest.mark.it("Use the arange() function")
+def test_arange_exists():
+    f = open('app.py')
+    content = f.read()
+    assert content.find("arange(") > 0
+
 @pytest.mark.it("You have to reverse the vector values")
 def test_output():
     path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
