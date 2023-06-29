@@ -1,12 +1,14 @@
 import pytest
-import os
+import os,re
 import numpy
 
 @pytest.mark.it("You have to use the random() method")
 def test_random():
-    f = open('app.py')
-    content = f.read()
-    assert "random(" in content
+    path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
+    with open(path, 'r') as content_file:
+        content = content_file.read()
+        regex = re.compile(r"\s*random\s*\(")
+        assert bool(regex.search(content)) == True
 
 @pytest.mark.it('You should create a variable named arr')
 def test_arr_exists():
