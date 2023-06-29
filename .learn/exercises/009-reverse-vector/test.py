@@ -26,5 +26,5 @@ def test_hard_code():
     path = os.path.dirname(os.path.abspath('app.py'))+'/app.py'
     with open(path, 'r') as content_file:
         content = content_file.read()
-        regex = re.compile(r"\[9 8 7 6 5 4 3 2 1 0\]\\n")
+        regex = re.compile(r"\[9 8 7 6 5 4 3 2 1 0\]")
         assert bool(regex.search(content)) == False
