@@ -1,4 +1,5 @@
 import os, pytest, re
+import numpy as np
 
 @pytest.mark.it("Import Numpy as np on the app.py file")
 def test_declare_variable():
@@ -20,4 +21,4 @@ def test_declare_variable():
 def test_print(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == '1.24.2\n'
+    assert np.__version__ in captured.out
