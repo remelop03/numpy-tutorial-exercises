@@ -1,9 +1,3 @@
-## ⚠️ IMPORTANT
-
-This tutorial and exercises have been migrated to this repository at the [4Geeks Academy organization.](https://github.com/4GeeksAcademy/numpy-tutorial-exercises)
-
---------
-
 <!-- hide -->
 # Welcome to Numpy exercise tutorial
 
