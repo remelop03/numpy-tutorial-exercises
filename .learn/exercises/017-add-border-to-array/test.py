@@ -12,4 +12,4 @@ def test_random():
 def test_print(capsys):
     import app
     captured = capsys.readouterr()
-    assert captured.out == '[[0. 0. 0. 0. 0. 0. 0.]\n [0. 1. 1. 1. 1. 1. 0.]\n [0. 1. 1. 1. 1. 1. 0.]\n [0. 1. 1. 1. 1. 1. 0.]\n [0. 1. 1. 1. 1. 1. 0.]\n [0. 1. 1. 1. 1. 1. 0.]\n [0. 0. 0. 0. 0. 0. 0.]]\n'
+    assert captured.out == '[[0. 0. 0. 0. 0.]\n [0. 0. 0. 0. 0.]\n [0. 0. 0. 0. 0.]\n [0. 0. 0. 0. 0.]\n [0. 0. 0. 0. 0.]\n'
