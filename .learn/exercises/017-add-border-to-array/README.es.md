@@ -18,4 +18,4 @@
 
 ## 💡 Pista:
 
-+ El método `np.pad()` modifica los valores especificados de una matriz. Puedes leer más sobre este método en el siguiente link: https://numpy.org/doc/stable/reference/generated/numpy.pad.html.
++ El método `np.pad()` modifica los valores especificados de una matriz. Puedes leer más sobre este método en el siguiente link: https://numpy.org/doc/stable/reference/generated/numpy.pad.html
