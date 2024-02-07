@@ -8,7 +8,7 @@ def test_random():
     content = f.read()
     assert "ones(" in content
 
-@pytest.mark.it('The output should be a the expected matrix')
+@pytest.mark.it('The output should be the expected matrix')
 def test_print(capsys):
     import app
     captured = capsys.readouterr()
