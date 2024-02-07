@@ -46,7 +46,7 @@ $ learnpack start
 
 <!-- endhide -->
 
- ## Colaboradores
+## Colaboradores
  
 Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
@@ -58,4 +58,4 @@ Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors).
 
- ¡Todas las contribuciones son bienvenidas!
+¡Todas las contribuciones son bienvenidas!
