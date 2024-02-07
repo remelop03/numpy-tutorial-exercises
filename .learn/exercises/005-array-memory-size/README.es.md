@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Encuentra la cantidad de memoria ocupada por el array e imprimela en la consola.
+1. Encuentra la cantidad de memoria ocupada por el array e imprímela en la consola.
 
 ## 💡 Pistas:
 
