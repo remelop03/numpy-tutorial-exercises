@@ -11,7 +11,7 @@
 ## 📎 Example:
 
 ```python
-# In this example, we are changing the value of the second element to 1.
+# In this example, we are changing the value of the second element to 1
 arr = np.zeros(10)
 arr[1] = 1
 ```
