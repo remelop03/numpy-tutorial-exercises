@@ -8,4 +8,4 @@
 
 ## 💡 Pista:
 
-+ El método `max()` retorna el valor máximo en un array. Puedes leer más de este método en este link: https://numpy.org/doc/stable/reference/generated/numpy.ndarray.max.html.
++ El método `max()` retorna el valor máximo en un array. Puedes leer más de este método en este link: https://numpy.org/doc/stable/reference/generated/numpy.ndarray.max.html
