@@ -1,17 +1,17 @@
 # `006` NumPy Documentation
 
-If you want to get the documentation of a specific NumPy's function, class or module, you can do it by using the `numpy.info()` function.
+If you want to get the documentation of a specific NumPy's function, class or module, you can do it by using the `np.info()` function.
 
 ## 📝 Instructions:
 
-1. Get the documentation of the function `numpy.add()`.
+1. Get the documentation of the function `np.add()`.
 
 ## 📎 Example:
 
 ```python
-numpy.info(numpy.zeros)
+np.info(np.zeros)
 ```
 
 ## 💡 Hint:
 
-+ You can get more information about the function `numpy.info()` on the following link: https://www.geeksforgeeks.org/numpy-info-function-in-python/
++ You can get more information about the function `np.info()` on the following link: https://www.geeksforgeeks.org/numpy-info-function-in-python/
