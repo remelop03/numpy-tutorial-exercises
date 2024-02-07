@@ -9,7 +9,7 @@ def test_output():
     content = f.read()
     assert content.find("info(") > 0
 
-@pytest.mark.it("You should be getting the documentation of numpy.add()")
+@pytest.mark.it("You should be getting the documentation of np.add()")
 def test_using_add(capsys, app):
     f = open('app.py')
     content = f.read()
