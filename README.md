@@ -55,7 +55,7 @@ Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
 
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder) 💻, (translation) 🌎
+2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, (coder) 💻, (translation) 🌎
 
 3. [Ricardo Rodriguez (RickRodriguez8080)](https://github.com/RickRodriguez8080) contribution: (build-tutorial) ✅, (documentation) 📖
 
