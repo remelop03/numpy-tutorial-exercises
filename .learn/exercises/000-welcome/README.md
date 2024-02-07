@@ -1,20 +1,20 @@
-# `00` Welcome to Numpy!
+# `000` Welcome to NumPy!
 
 We are very excited to have you here! 🎉 😂
 
-Numpy is an open-source Python library used to perform various mathematical and scientific tasks.
+NumPy is an open-source Python library used to perform various mathematical and scientific tasks.
 
-It allows us to perform numerical calculations in python. We will use it mainly because we can  create and modify arrays, and do operations on them with ease.
+It allows us to perform numerical calculations in Python. We will use it mainly because we can  create and modify arrays, and do operations on them with ease.
 
 ## 💬 Fundamentals:
 
-During this course we are going to show you the most popular Numpy's functionalities. Also We will be talking a little bit about:
+During this course, we are going to show you the most popular NumPy's functionalities. Also, we will be talking a little bit about:
 
 + Why should we use NumPy?
 
 + Installation and Import.
 
-+ Numpy array creation and its attributes.
++ NumPy array creation and its attributes.
 
 + Basic mathematical operations.
 
@@ -34,19 +34,19 @@ During this course we are going to show you the most popular Numpy's functionali
 
 Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
 
-2. [Tomás Gonzáles (tommygonzaleza)](https://github.com/tommygonzaleza), contribution: (coder) :computer: (idea), (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
+2. [Tomás Gonzáles (tommygonzaleza)](https://github.com/tommygonzaleza), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
 
-3. [Paolo Lucano (plucodev)](https://github.com/plucodev), contribution: (coder), (build-tests) :warning:
+3. [Paolo Lucano (plucodev)](https://github.com/plucodev), contribution: (coder) 💻, (build-tests) ⚠️
 
-4. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (translator) :earth_africa:
+4. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (translator) 🌎
 
 This project follows these specifications: [all-contributors](https://github.com/kentcdodds/all-contributors)
 
 Contributions of any kind are welcome!
 
-Note: Please click the `next ->` button on the top right of these instructions.
+> Note: Please click the `next ->` button on the top right of these instructions.
 
 
 
