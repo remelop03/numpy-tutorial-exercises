@@ -18,4 +18,4 @@
 
 ## 💡 Hint:
 
-+ The `np.pad()` method modifies a matrix values. You can read more about this method here: https://numpy.org/doc/stable/reference/generated/numpy.pad.html.
++ The `np.pad()` method modifies a matrix values. You can read more about this method here: https://numpy.org/doc/stable/reference/generated/numpy.pad.html
