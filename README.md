@@ -1,7 +1,7 @@
 <!-- hide -->
 # Welcome to Numpy exercise tutorial
 
-By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4geeksacademy/numpy-tutorial-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.com/">4Geeks Academy</a><a href="https://www.4geeksacademy.com">.<img height="280" align="right" src="https://github.com/4geeksacademy/numpy-tutorial-exercises/blob/master/.learn/assets/numpy-badge.png?raw=true"></a>
+By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4geeksacademy/numpy-tutorial-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.com/">4Geeks Academy.</a><a href="https://www.4geeksacademy.com"><img height="280" align="right" src="https://github.com/4geeksacademy/numpy-tutorial-exercises/blob/master/.learn/assets/numpy-badge.png?raw=true"></a>
 <!-- endhide -->
 
 NumPy (and Pandas) are the #1 libraries for Machine Learning, there is no way you can do anything without them. 
