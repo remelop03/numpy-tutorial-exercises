@@ -7,7 +7,7 @@ def test_output():
     content = f.read()
     assert content.find("reshape(") > 0
 
-@pytest.mark.it('The output should be a matrix which values should be from 0 to 8')
+@pytest.mark.it('The output should be a matrix whose values should be from 0 to 8')
 def test_print(capsys):
     import app
     captured = capsys.readouterr()
