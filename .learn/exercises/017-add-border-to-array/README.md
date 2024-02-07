@@ -6,7 +6,7 @@
 
 2. Print the matrix in the console.
 
-## Expected Output:
+## 💻 Expected Output:
 
 ```bash
 [[0. 0. 0. 0. 0.]
