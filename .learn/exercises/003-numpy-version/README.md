@@ -2,7 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Print NumPy's version in the console.
+1. Print NumPy's version and configuration in the console.
 
 ## 💡 Hints:
 
