@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Crea una matriz identidad de dimensiones 3 x 3 e imprimela en la consola.
+1. Crea una matriz identidad de dimensiones 3 x 3 e imprímela en la consola.
 
 ## 💡 Pistas:
 
