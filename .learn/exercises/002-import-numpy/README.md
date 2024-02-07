@@ -1,4 +1,4 @@
-# `002` Import Numpy
+# `002` Import NumPy
 
 ## 📝 Instructions:
 
