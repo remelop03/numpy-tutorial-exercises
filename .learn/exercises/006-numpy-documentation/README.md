@@ -4,7 +4,7 @@ If you want to get the documentation of a specific NumPy's function, class or mo
 
 ## 📝 Instructions:
 
-1. Get the documentation of the function `np.add()`.
+1. Get the documentation for the function `np.add()`.
 
 ## 📎 Example:
 
