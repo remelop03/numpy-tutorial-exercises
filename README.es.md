@@ -35,7 +35,7 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 $ npm i @learnpack/learnpack -g && learnpack plugins:install learnpack-python
 ```
 
-2. Empieza el tutorial/ejercicios corriendo estos comandos en el mismo nivel donde se encuentra tu archivo learn.json:
+3. Empieza el tutorial/ejercicios corriendo estos comandos en el mismo nivel donde se encuentra tu archivo learn.json:
 
 ```bash
 $ pip3 install pytest==4.6.0 pytest-testdox mock numpy==1.17.4 pandas==0.25.3
