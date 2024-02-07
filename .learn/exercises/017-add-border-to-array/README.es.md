@@ -6,7 +6,7 @@
 
 2. Imprime la matriz en la consola.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash
 [[0. 0. 0. 0. 0.]
