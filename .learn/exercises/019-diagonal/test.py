@@ -8,7 +8,7 @@ def test_random():
     content = f.read()
     assert "diag(" in content
 
-@pytest.mark.it('The output should be a the diagonal of the matrix')
+@pytest.mark.it('The output should be the diagonal of the matrix')
 def test_print(capsys):
     import app
     captured = capsys.readouterr()
