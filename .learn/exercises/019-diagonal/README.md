@@ -14,4 +14,4 @@
 
 ## 💡 Hint:
 
-+ The function `np.diag` returns the diagonal of a matrix, you can read more about this function in this link: https://numpy.org/doc/stable/reference/generated/numpy.diag.html
++ The function `np.diag` returns the diagonal of a matrix. You can read more about this function in this link: https://numpy.org/doc/stable/reference/generated/numpy.diag.html
