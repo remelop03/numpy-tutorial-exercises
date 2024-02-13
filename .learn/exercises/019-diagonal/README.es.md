@@ -6,7 +6,7 @@
 
 2. Imprime la diagonal de la matriz en la consola.
 
-## Resultado Esperado:
+## 💻 Resultado Esperado:
 
 ```bash
 [0 4 8]
@@ -14,4 +14,4 @@
 
 ## 💡 Pista:
 
-+ La función `np.diag` retorna la diagonal de una matriz. Puedes saber más de esta función en este link: https://numpy.org/doc/stable/reference/generated/numpy.diag.html.
++ La función `np.diag` retorna la diagonal de una matriz. Puedes saber más de esta función en este link: https://numpy.org/doc/stable/reference/generated/numpy.diag.html
