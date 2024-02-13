@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Agrega ceros (0) en los valores que se encuentran en el borde de una matriz 3 x 3 de unos.
+1. Añade ceros (0) en los valores que se encuentran en el borde de una matriz 3 x 3 de unos.
 
 2. Imprime la matriz en la consola.
 
