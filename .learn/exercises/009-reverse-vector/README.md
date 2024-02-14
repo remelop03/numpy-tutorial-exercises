@@ -2,7 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Create a vector which values should be the integers from 0 to 9.
+1. Create a vector whose values should be the integers from 0 to 9.
 
 2. Reverse the vector and print it in the console.
 

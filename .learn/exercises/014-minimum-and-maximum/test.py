@@ -15,7 +15,7 @@ def test_arr_exists():
     except AttributeError:
         raise AttributeError("The variable 'arr' should exist on app.py")
 
-@pytest.mark.it('The array should have three random values')
+@pytest.mark.it('The array should have ten random values')
 def test_arr_value(capsys):
     from app import arr
     size = numpy.size(arr)

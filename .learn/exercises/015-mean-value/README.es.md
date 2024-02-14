@@ -8,4 +8,4 @@
 
 ## 💡 Pista:
 
-+ El método `mean()` retorna el valor medio en un array. Puedes leer más de este método en este link: https://numpy.org/doc/stable/reference/generated/numpy.mean.html.
++ El método `mean()` retorna el valor medio en un array. Puedes leer más de este método en este link: https://numpy.org/doc/stable/reference/generated/numpy.mean.html

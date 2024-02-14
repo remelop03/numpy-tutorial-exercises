@@ -2,7 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Create a matrix of dimensions 3 x 3, which values should be the integers from 0 to 8 and print it in the console.
+1. Create a matrix of dimensions 3 x 3, whose values should be the integers from 0 to 8, and print it in the console.
 
 ## 💡 Hint:
 

@@ -8,7 +8,7 @@ def test_random():
     content = f.read()
     assert "mean(" in content
 
-@pytest.mark.it('The output should be a the mean value of the array')
+@pytest.mark.it('The output should be the mean value of the array')
 def test_print(capsys):
     import app
     captured = capsys.readouterr()

@@ -8,4 +8,4 @@
 
 + The identity matrix is a matrix with ones on the main diagonal and zeros elsewhere.
 
-+ The `eye()` function creates an idenity matrix. You can read more about this function here: https://numpy.org/devdocs/reference/generated/numpy.eye.html.
++ The `eye()` function creates an identity matrix. You can read more about this function here: https://numpy.org/devdocs/reference/generated/numpy.eye.html

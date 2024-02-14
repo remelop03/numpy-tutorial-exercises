@@ -2,20 +2,20 @@
 
 ## 📝 Instructions:
 
-1. Add zero (0) as the border values of the one's matrix that you created in the previous exercise.
+1. Add zero (0) as the border values of a 3 x 3 matrix of ones. 
 
 2. Print the matrix in the console.
 
-## Expected Output:
+## 💻 Expected Output:
 
 ```bash
 [[0. 0. 0. 0. 0.]
- [0. 0. 0. 0. 0.]
- [0. 0. 0. 0. 0.]
- [0. 0. 0. 0. 0.]
+ [0. 1. 1. 1. 0.]
+ [0. 1. 1. 1. 0.]
+ [0. 1. 1. 1. 0.]
  [0. 0. 0. 0. 0.]]
 ```
 
 ## 💡 Hint:
 
-+ The `np.pad()` method modifies a matrix values. You can read more about this method here: https://numpy.org/doc/stable/reference/generated/numpy.pad.html.
++ The `np.pad()` method adds padding to a matrix. You can read more about this method here: https://numpy.org/doc/stable/reference/generated/numpy.pad.html
