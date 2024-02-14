@@ -1,20 +1,21 @@
 <!-- hide -->
 # Welcome to Numpy exercise tutorial
 
-By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4geeksacademy/numpy-tutorial-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.com/">4Geeks Academy</a><a href="https://www.4geeksacademy.com"><img height="280" align="right" src="https://github.com/4geeksacademy/numpy-tutorial-exercises/blob/master/.learn/assets/numpy-badge.png?raw=true"></a>
+By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4geeksacademy/numpy-tutorial-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.com/">4Geeks Academy.</a><a href="https://www.4geeksacademy.com"><img height="280" align="right" src="https://github.com/4geeksacademy/numpy-tutorial-exercises/blob/master/.learn/assets/numpy-badge.png?raw=true"></a>
 <!-- endhide -->
-Numpy (and Pandas) are the #1 libraries for Machine Learning, there is no way you can do anything without it. 
 
-This interactive tutorial will help you become familiar on it, master the most used functionalities and help you clean up your first datasets.
+NumPy (and Pandas) are the #1 libraries for Machine Learning, there is no way you can do anything without them. 
 
-- Numpy documentation.
+This interactive tutorial will help you become familiar with it, master the most used functionalities, and help you clean up your first datasets.
+
+- NumPy documentation.
 - Vectors.
-- Matrix.
+- Matrixes.
 - Random, Mean Values.
 
-Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with 📹 video tutorials.
+> Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with 📹 video tutorials.
 
-These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
+These exercises were built in collaboration; we need you! If you find any bugs or misspellings, please contribute and report them.
 
 <!-- hide -->
 
@@ -28,36 +29,35 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 ## Local Installation
 
-1. Clone or download this repo.
+1. Clone or download this repository.
 
-2. Install `learnpack`, `packet manager` for learning tutorials and the html `compiler plugin` for learnpack, make sure you also have node.js 12+:
+2. Make sure you have [LearnPack](https://learnpack.co) installed, node.js version 14+, and Python version 3+. This is the command to install LearnPack:
 
+```bash
+$ npm i @learnpack/learnpack -g && learnpack plugins:install learnpack-python
 ```
-$ npm i learnpack -g
-$ learnpack plugins:install learnpack-python
-```
 
-1. Start the tutorial/exercises by running the following command at the same level were your learn.json file is:
+3. Start the tutorial/exercises by running the following commands at the same level where your learn.json file is:
 
-```sh
-$ npm i jest@24.8.0 -g
+```bash
+$ pip3 install pytest==4.6.0 pytest-testdox mock numpy==1.17.4 pandas==0.25.3
 $ learnpack start
 ```
 
-Note: The exercises have automatic grading but it is very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
+> Note: The exercises have automatic grading, but it's very rigid and strict, my recommendation is to not take the tests too serious and use them only as a suggestion, or you may get frustrated.
 
 <!-- endhide -->
 
 
- ## Contributors
+## Contributors
 
-Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key):
+Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentation) 📖
 
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
+2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, (coder) 💻, (translation) 🌎
 
-3. [Ricardo Rodriguez (RickRodriguez8080)](https://github.com/RickRodriguez8080) contribution: (build-tutorial)  ✅, (documentation) 📖
+3. [Ricardo Rodriguez (RickRodriguez8080)](https://github.com/RickRodriguez8080) contribution: (build-tutorial) ✅, (documentation) 📖
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specifications. 
 
