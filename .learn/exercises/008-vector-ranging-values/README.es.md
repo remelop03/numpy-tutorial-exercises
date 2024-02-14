@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Crea un vector cuyos valores sean los números enteros que formen parte del rango de 10 a 49 e imprimelo en la consola.
+1. Crea un vector cuyos valores sean los números enteros que formen parte del rango de 10 a 49 e imprímelo en la consola.
 
 ## 💡 Pistas:
 

@@ -1,6 +1,6 @@
 import os, pytest, re
 
-@pytest.mark.it("Import Numpy as np on the app.py file")
+@pytest.mark.it("Import NumPy as np on the app.py file")
 def test_declare_variable():
     path = 'app.py'
     with open(path, 'r') as content_file:

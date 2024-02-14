@@ -6,6 +6,6 @@
 
 ## 💡 Hints:
 
-+ If you want to create a vector with ranged value, you should use the `arange()` function.
++ If you want to create a vector with a ranged value, you should use the `arange()` function.
 
 + For more information about the `arange()` function, you can go to this link: https://numpy.org/doc/stable/reference/generated/numpy.arange.html

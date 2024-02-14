@@ -1,11 +1,11 @@
-# `003` Numpy Version
+# `003` NumPy Version
 
 ## 📝 Instrucciones:
 
-1. Imprime la versión de Numpy y su configuración en la consola.
+1. Imprime la versión de NumPy y su configuración en la consola.
 
 ## 💡 Pistas:
 
-+ Para obtener la versión de Numpy: `np.__version__`.
++ Para obtener la versión de NumPy: `np.__version__`.
 
-+ Para obtener la configuración de Numpy: `np.show_config()`.
++ Para obtener la configuración de NumPy: `np.show_config()`.

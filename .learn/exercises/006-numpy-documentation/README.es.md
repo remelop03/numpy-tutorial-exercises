@@ -1,17 +1,17 @@
-# `006` Numpy Documentation
+# `006` NumPy Documentation
 
-Si deseas obtener la documentación de alguna función de Numpy en específico, la puedes obtener a través de la consola, usando la función `numpy.info()`.
+Si deseas obtener la documentación de alguna función de NumPy en específico, la puedes obtener a través de la consola, usando la función `np.info()`.
 
 ## 📝 Instrucciones:
 
-1. Obtén la documentación de la función `numpy.add()`.
+1. Obtén la documentación de la función `np.add()`.
 
-## Ejemplo:
+## 📎 Ejemplo:
 
 ```python
-numpy.info(numpy.zeros)
+np.info(np.zeros)
 ```
 
-## 💡 Pistas:
+## 💡 Pista:
 
-+ Puedes ver más sobre la función `numpy.info()` en el siguiente link: https://www.geeksforgeeks.org/numpy-info-function-in-python/
++ Puedes ver más sobre la función `np.info()` en el siguiente link: https://www.geeksforgeeks.org/numpy-info-function-in-python/
