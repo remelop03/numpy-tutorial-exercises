@@ -12,5 +12,8 @@
         "us": "Numpy Tutorial Exercises",
         "es": "Tutorial Interactivo de Numpy"
     },
-    "slug": "numpy-exercises"
+    "slug": "numpy-exercises",
+    "editor": {
+        "version": "3.1.23"
+    }
 }
