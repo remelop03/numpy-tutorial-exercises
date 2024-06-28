@@ -32,13 +32,13 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 2. Asegúrate de tener [LearnPack](https://learnpack.co) instalado, una versión de node.js 14 o superior y una versión de Python 3 o superior. Este es el comando para instalar LearnPack:
 
 ```bash
-$ npm i @learnpack/learnpack -g && learnpack plugins:install learnpack-python
+$ npm i @learnpack/learnpack -g && learnpack plugins:install @learnpack/python
 ```
 
 3. Empieza el tutorial/ejercicios corriendo estos comandos en el mismo nivel donde se encuentra tu archivo learn.json:
 
 ```bash
-$ pip3 install pytest==4.6.0 pytest-testdox mock numpy==1.17.4 pandas==0.25.3
+$ pip3 install pytest==6.2.5 mock pytest-testdox toml numpy==1.24.2 pandas
 $ learnpack start
 ```
 
