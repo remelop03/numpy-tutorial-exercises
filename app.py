@@ -1,8 +1,9 @@
 import numpy as np
 
-print(0 * np.nan)
-print(np.nan == np.nan)
-print(np.inf > np.nan)
-print(np.nan - np.nan)
-print(np.nan in set([np.nan]))
-print(0.3 == 3 * 0.1)
+array = np.zeros((8, 8))
+
+# fill with 1 the alternate cells in rows and columns
+array[1::2, ::2] = 1
+array[::2, 1::2] = 1
+
+print(array)
